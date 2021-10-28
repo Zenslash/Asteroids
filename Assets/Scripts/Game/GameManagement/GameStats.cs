@@ -2,6 +2,6 @@ namespace Game
 {
     public static class GameStats
     {
-        public static int Score;
+        public static int score;
     }
 }
