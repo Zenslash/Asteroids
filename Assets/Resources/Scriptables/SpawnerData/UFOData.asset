@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23e18bca743a49244ade3223d0e6dc9f, type: 3}
+  m_Name: UFOData
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 5792988747649828118, guid: cfd3f823cc43fdc42b99d1d74c15d56a, type: 3}
+  Delay: 3
+  MaxObjectOnScene: 3

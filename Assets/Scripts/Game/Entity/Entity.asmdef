@@ -1,0 +1,20 @@
+{
+    "name": "Entity",
+    "rootNamespace": "",
+    "references": [
+        "IHit",
+        "Movement",
+        "Stats",
+        "Core",
+        "GameData"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

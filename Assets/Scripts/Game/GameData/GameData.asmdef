@@ -1,0 +1,22 @@
+{
+    "name": "GameData",
+    "rootNamespace": "",
+    "references": [
+        "GUID:35f1b191f7b83cc449fdfefe0c0811b5",
+        "GUID:694ed9812a65ee84eba95862c3e75b59",
+        "GUID:fbf947cc76f09504d874be85fcc1863e",
+        "GUID:768b794a102da7545863395fa432a4b6",
+        "GUID:7313aade3d9d676419096c092b36407f",
+        "GUID:2ec91666d4faf8e4b9dd297ff78d70a4",
+        "GUID:4415e9ad079a1ce4ba65282bc1db779f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
